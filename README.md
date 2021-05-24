@@ -1,3 +1,4 @@
 # Hello-world
 My first repositry
-This ig going to be my first edit 
+This is going to be my first edit 
+now, time for the second update
